@@ -11,9 +11,9 @@ Scrum #1: 03/17 -> 08/30
   Subversion control with GitHub
 Scrum #2: 08/28 -> 09/11
   Object controls and manipulations, 
-  Global object inclusion interface
-Scrum #3: 09/12 -> 09/25
   IDE updating objects in active library
+Scrum #3: 09/12 -> 09/25
+  Global object inclusion interface
   Tutorial/HUD interface
 Scrum #4: 09/26 -> 10/08
   Story/Challenges/Classes
