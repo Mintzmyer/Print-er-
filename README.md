@@ -2,7 +2,7 @@
 Print(er): Python Visualizer
 
 Summary: A self-directed project to motivate practicing repository use and code tracking, blender exploration, and scrum practices.
-Mostly just a playground for mistakes and learning.
+It aims to develop a virtual environment, where users interact with objects by viewing and modifying their python code. This is both a creative and pedagogical mechanic for exploratory learning.
 
 A SCRUM-driven project by Sami Mintzmyer
 
